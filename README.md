@@ -6,6 +6,6 @@ This is a todo List application which is based on Django like a normal todo List
 4) And you can mark also whether you've done that task or not.
 
 
-This application is hosted on            this is the url of the application:- 
+
     
     
